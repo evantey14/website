@@ -1,6 +1,4 @@
 ---
-# An instance of the About widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: about
 
 # Activate this widget? true/false
