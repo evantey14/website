@@ -1,6 +1,8 @@
 # Theme metadata
 name = "custom_theme"
 
+# Palette based on: https://www.schemecolor.com/night-sky-color-palette.php
+
 # Is theme light or dark?
 light = true
 
