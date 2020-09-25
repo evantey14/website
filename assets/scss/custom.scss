@@ -1,0 +1,13 @@
+::selection {
+  background: $yellow;
+}
+
+a:hover,
+a:focus {
+  background: $yellow;
+  text-decoration: none;
+}
+
+.article-title a {
+  color: $light-blue;
+}

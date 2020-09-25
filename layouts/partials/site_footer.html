@@ -15,9 +15,10 @@
   {{ partial "site_footer_license" . }}
 
   <p class="powered-by">
-    evan tey | source | powered by
-    <a href="https://wowchemy.com" target="_blank" rel="noopener">wowchemy</a> |
-    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
+    evan tey
+    | <a href="https://github.com/evantey14/starter-academic" target="_blank" rel="noopener">source</a>
+    | powered by <a href="https://wowchemy.com" target="_blank" rel="noopener">wowchemy</a>
+    | {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
   </p>
 
 </footer>
