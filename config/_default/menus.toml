@@ -4,17 +4,17 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "about"
+  name = "About"
   url = "about"
   weight = 20
 
 [[main]]
-  name = "blobs"
+  name = "Blobs"
   url = "blob/"
   weight = 40
 
 [[main]]
-  name = "fun"
+  name = "Fun"
   url = "fun/"
   weight = 50
 

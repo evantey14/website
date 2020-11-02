@@ -1,6 +1,6 @@
 ---
 # Display name
-title: evan tey
+title: Evan Tey
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: technical associate @ <br> [tess](https://tess.mit.edu/) < [kavli](https://space.mit.edu/) < [mit](http://web.mit.edu/)
+role: Technical Associate @ <br> [TESS](https://tess.mit.edu/) < [Kavli](https://space.mit.edu/) < [MIT](http://web.mit.edu/)
 
 # Organizations/Affiliations
 #organizations:
@@ -71,13 +71,13 @@ user_groups:
 - Visitors
 ---
 
-hi! i'm evan, and i'm a researcher / engineer for [tess](https://tess.mit.edu). right now, i'm
+Hi! I'm Evan, and I'm an engineer / researcher for [TESS](https://tess.mit.edu). Right now, I'm
 probably...
 
 - :telescope: hunting for exoplanets
 - :soccer: playing soccer with my housemates / neighbors
 - :curry: making / eating copious amounts of food
 
-i really enjoy receiving random emails, so this is an open invitation to email me at:
+I really enjoy receiving random emails, so this is an open invitation to email me at:
 
 tey [at] mit [dot] edu

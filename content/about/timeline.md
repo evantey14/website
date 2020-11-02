@@ -28,9 +28,9 @@ experience:
 - company: Cambridge, MA 
   date_start: "2015-09-01"
   description: |-
-    - [mit](https://web.mit.edu/physics/) [bs](https://www.eecs.mit.edu/) :star: :computer: > 
-      [mit meng](https://www.eecs.mit.edu/academics-admissions/undergraduate-programs/6-p-meng-program) :chart_with_upwards_trend: >
-      [mit tess](https://tess.mit.edu/) :telescope:
+    - [MIT](https://web.mit.edu/physics/) [BS](https://www.eecs.mit.edu/) :star: :computer: >
+      [MIT MEng](https://www.eecs.mit.edu/academics-admissions/undergraduate-programs/6-p-meng-program) :chart_with_upwards_trend: >
+      [MIT TESS](https://tess.mit.edu/) :telescope:
     - [worked](https://kensho.com/) /
       [researched](https://www.imperial.ac.uk/astrophysics/centre-for-inference-and-cosmology/) /
       [volunteered](https://usaaao.org/)
@@ -55,13 +55,13 @@ experience:
   date_end: "2015-09-01"
   date_start: "1997-03-01"
   description: |-
-    - [bcs](https://www.brentwoodchristian.org/) :bear: > [kms](http://www.kealingmiddleschool.org/)
-      :honeybee: > [lasa](https://www.lasahighschool.org/) :leopard:
+    - [BCS](https://www.brentwoodchristian.org/) :bear: > [KMS](http://www.kealingmiddleschool.org/)
+      :honeybee: > [LASA](https://www.lasahighschool.org/) :leopard:
     - played lots of soccer :soccer: and piano :musical_keyboard:
     - watched lots of sports with my dad and brother :football: :basketball: :soccer: :tennis:
       :golf:
     - attended
-      [hsmc](https://www.txstate.edu/mathworks/camps/Summer-Math-Camps-Information/hsmc.html) :1234:
+      [HSMC](https://www.txstate.edu/mathworks/camps/Summer-Math-Camps-Information/hsmc.html) :1234:
     - competed in [science](http://lasascio.com/) [olympiad](https://www.soinc.org/) :trophy:
     <!-- - got lost in a Vegas casino at the age of 3 -->
 - company: Wichita, KS

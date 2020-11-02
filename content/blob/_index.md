@@ -1,5 +1,5 @@
 ---
-title: blobs
+title: Blobs
 
 # View.
 #   1 = List
