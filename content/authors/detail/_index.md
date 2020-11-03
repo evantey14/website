@@ -23,7 +23,7 @@ education:
     year: 2019
 ---
 
-Hi again! I'm Evan, but sometimes my friends call me tey. I'm an astrophysicist :milky_way:,
-[software engineer](https://github.com/evantey14/) :computer:, and educator :apple:, with
-a chronic thinking problem :thinking:, a [large appetite](https://www.instagram.com/p/BTvLdH_Bc-3/)
-:cake:, and an emotional attachment to my bike :bike:.
+Hi again! I'm Evan. I'm an astrophysicist :milky_way:, [software
+engineer](https://github.com/evantey14/) :computer:, and educator :apple:, with a chronic thinking
+problem :thinking:, a [large appetite](https://www.instagram.com/p/BTvLdH_Bc-3/) :cake:, and an
+emotional attachment to my bike :bike:.
