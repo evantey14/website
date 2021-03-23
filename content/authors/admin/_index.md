@@ -71,10 +71,10 @@ user_groups:
 - Visitors
 ---
 
-Hi! I'm Evan, and I'm an engineer / researcher for [TESS](https://tess.mit.edu). Right now, I'm
+Hi! I'm Evan, and I'm an engineer & researcher for [TESS](https://tess.mit.edu). Right now, I'm
 probably...
 
-- :telescope: hunting for exoplanets
+- :telescope: searching for exoplanets
 - :soccer: playing soccer with my housemates / neighbors
 - :curry: making / eating copious amounts of food
 

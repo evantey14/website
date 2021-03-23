@@ -2,6 +2,7 @@
 date = 2020-09-28
 title = "Zero Times Infinity"
 tags = ["pattern"]
+draft = true
 +++
 
 My sister is taking calculus this year, and the other day, she asked me for help with a problem. The

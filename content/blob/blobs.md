@@ -2,6 +2,7 @@
 date = 2020-09-22
 title = "Blobs of Text"
 tags = ["media"]
+draft = true
 +++
 
 Welcome to my collection of text blobs! I'm hoping to use this kinda like a blog, but in smaller
